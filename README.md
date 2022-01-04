@@ -1,5 +1,5 @@
 # Using terraform to create a GCP instance.
-###Requirements:
+### Requirements:
 * GCP Account
 * [Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/gcp-get-started)
 ### How to get credentials.json:
