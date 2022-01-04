@@ -19,12 +19,12 @@ After you create your service account, download your service account key.
 * Leave the "Key Type" as JSON.
 * Click "Create" to create the key and save the key file to your system.
 
-###How to execute:
+### How to execute:
 Create a file "credentials.json" on root directory.
 Run:
 * terraform init
 * terraform apply
 
-###How to destroy:
+### How to destroy:
 Run:
 * terraform destroy
